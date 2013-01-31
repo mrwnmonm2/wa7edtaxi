@@ -1208,6 +1208,13 @@ p{margin:0;}
     background-image: url(google.png);
     background-size: 42px 42px;
 }
+
+.social li.emailcontact a{
+    
+    background-image:url(email.png);
+   background-size: 36px 36px;
+background-repeat: no-repeat;
+}
 .social li a {
 	-webkit-transition: all 250ms ease-out;
 	-moz-transition: all 250ms ease-out;
